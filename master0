@@ -2,3 +2,5 @@ Line for commit 0 on branch master.
 Line 1 for commit 1 on ramya branch. 
 Line 2 for commit 2 on ramya branch. 
 Other random edits for Dan branch. 
+This line is the equivalent of Dan's auth code. Will attempt to rebase 
+ramya branch with this change post-squash. 
